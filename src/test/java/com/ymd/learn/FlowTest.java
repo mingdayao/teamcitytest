@@ -4,14 +4,13 @@ import org.junit.Test;
 import org.junit.experimental.categories.Category;
 
 import junit.framework.Assert;
-import test.OrdinaryTests;
+import test.IntegrationTests;
 
-@Category(OrdinaryTests.class)
-public class UserServiceTest {
+@Category(IntegrationTests.class)
+public class FlowTest {
 	
 	@Test
-	public void testUserAdd() {
+	public void testNormalFlowOne() {
 		Assert.assertEquals(true, true);
 	}
-	
 }
