@@ -2,7 +2,7 @@ Hello TeamCity!
 Hello Michael!
 Hello sara
 Hello my little girl
-
+Hello hello
 
 
 How to split junit Tests in a continuous integration environement
